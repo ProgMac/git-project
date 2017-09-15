@@ -2,4 +2,4 @@
 
 
 1. Learn to make commits [DONE]
-2. Learn about ignoring files
+2. Learn about ignoring files [DONE]
